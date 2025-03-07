@@ -130,7 +130,7 @@ function ChartWidget({ id, x, y, width, height, chartType, updatePosition, updat
 }
 
 ChartWidget.propTypes = {
-    id: PropTypes.string, 
+    id: PropTypes.string,
     x: PropTypes.number, 
     y: PropTypes.number, 
     width: PropTypes.number, 
